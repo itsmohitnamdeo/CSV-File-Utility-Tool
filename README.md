@@ -46,32 +46,36 @@ This project is a CSV File Utility Tool that allows users to perform various ope
 ## Functionalities
 
 - Read and Display CSV Data
-  
-![read-display](https://github.com/user-attachments/assets/260c0aee-73c5-48ba-b2d4-53a33e1a1c09)
+
+  ![read-display](https://github.com/user-attachments/assets/87d5f5e1-73f8-4b8d-907f-156842e2b573)
+
 
 - Filter Rows
 
-![filter](https://github.com/user-attachments/assets/de3ef9bb-edaa-4954-b668-517c7a752cfd)
+![filter](https://github.com/user-attachments/assets/b59a6a54-1aa5-4ceb-8d60-b773e83e1d59)
 
 
 - Sort Rows
-  
-![sort](https://github.com/user-attachments/assets/453166d9-1a8c-4219-abd0-7b614d632faa)
+
+![sort](https://github.com/user-attachments/assets/6c683236-bc82-4bfa-8860-6afb033aab19)
+
 
 - Aggregate Data
 
-![aggregate](https://github.com/user-attachments/assets/b04bb3f2-6b66-4d5f-a1c8-2d17ae1e4e07)
+![aggregate](https://github.com/user-attachments/assets/34e0ea41-5f53-4ade-9ac1-c6de1b5ffab6)
 
 
 - Write to New CSV File
 
-![write](https://github.com/user-attachments/assets/3d318cb2-d823-4eb0-ab91-e7afe23b4310)
+![write](https://github.com/user-attachments/assets/53e10b23-3980-4917-8641-ac51571aec6f)
 
-![newdata](https://github.com/user-attachments/assets/6f1bbcce-1e2a-4746-a2e3-522937106a97)
+
+![newdata](https://github.com/user-attachments/assets/a5719afc-f350-43fa-b9d4-d1ea7d0aec3e)
+
 
 - Check for Palindromes
 
-![palindromes](https://github.com/user-attachments/assets/58e25f47-d846-4daa-b4f7-03a2b22c12a3)
+![palindromes](https://github.com/user-attachments/assets/a09cc467-de96-4069-8bdf-53cf8992a4d4)
 
 
 ## Running Tests
@@ -81,7 +85,7 @@ This project is a CSV File Utility Tool that allows users to perform various ope
 - pytest test_aggregate_data.py
 - pytest test_check_palindromes.py
 
-![test-cases](https://github.com/user-attachments/assets/566733d3-81bb-4f04-8658-4e043da5e3d7)
+![test-cases](https://github.com/user-attachments/assets/c6d7207e-e76b-4e0e-938d-84601dc08765)
 
 
 ## Edge Cases Handled
