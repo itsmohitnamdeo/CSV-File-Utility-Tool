@@ -6,7 +6,6 @@ from csv_utility.operations.aggregate import aggregate_data
 from csv_utility.operations.write import write_to_new_file
 from csv_utility.operations.palindrome import check_palindromes
 
-
 class CSVUtility:
     def __init__(self, file_name):
         self.file_name = file_name
