@@ -20,7 +20,7 @@ This project is a CSV File Utility Tool that allows users to perform various ope
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3
 
 - Pandas Library
 
