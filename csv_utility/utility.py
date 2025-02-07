@@ -16,16 +16,16 @@ class CSVUtility:
         display_data(self.data)
 
     def filter_rows(self):
-        self.data = filter_rows(self.data)  # Store the modified data
+        self.data = filter_rows(self.data) 
 
     def sort_rows(self):
-        self.data = sort_rows(self.data)  # Store the modified data
+        self.data = sort_rows(self.data)
 
     def aggregate_data(self):
-        aggregate_data(self.data)  # No need to store as aggregation doesn't modify original data
+        aggregate_data(self.data)
 
     def write_to_new_file(self):
-        write_to_new_file(self.data)  # Save the modified data
+        write_to_new_file(self.data)
 
     def check_palindromes(self):
-        check_palindromes(self.data)  # No need to store as palindrome check doesn’t modify original data
+        check_palindromes(self.data) 
